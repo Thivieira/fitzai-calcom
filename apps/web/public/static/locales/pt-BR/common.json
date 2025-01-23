@@ -2928,5 +2928,8 @@
   "select_oAuth_client": "Selecionar cliente OAuth",
   "on_every_instance": "Em cada instância",
   "next": "Próximo",
-  "ADD_NEW_STRINGS_ABOVE_THIS_LINE_TO_PREVENT_MERGE_CONFLICTS": "↑↑↑↑↑↑↑↑↑↑↑↑↑ Adicione suas novas strings aqui em cima ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑"
+  "ADD_NEW_STRINGS_ABOVE_THIS_LINE_TO_PREVENT_MERGE_CONFLICTS": "↑↑↑↑↑↑↑↑↑↑↑↑↑ Adicione suas novas strings aqui em cima ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑",
+  "panel_nav_link": "Ir para o seu painel",
+  "login_nav_link": "Entrar",
+  "privacy_policy_nav_link": "Política de Privacidade"
 }
